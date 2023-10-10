@@ -1,0 +1,14 @@
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+125.000000	20.000000	59.268536
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+250.000000	20.000000	509.872935
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+500.000000	20.000000	502.832019
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+1000.000000	20.000000	414.042306
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+2000.000000	20.000000	206.833214
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+4000.000000	20.000000	61.521017
+Gain of UFZ and meauring amp (dB)	Peak magnitude of impulse response (lin)
+0.000000	20.000000	764.281582
